@@ -9,3 +9,4 @@ def swap_case(s):
     return x
 
 if __name__ == '__main__':
+#    return s.swapcase()   #one liner in built function
